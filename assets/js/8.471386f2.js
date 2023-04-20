@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{659:function(t,n,s){"use strict";s.r(n);var l=s(74),o=Object(l.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("Spring Cloud Alibaba是阿里巴巴结合自身微服务实践，开源的微服务全家桶。")])])}),[],!1,null,null,null);n.default=o.exports}}]);
